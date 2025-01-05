@@ -26,4 +26,12 @@
 # User Authentication
 
 
+
+![image](https://github.com/user-attachments/assets/5e741e22-03cb-4fe9-916c-bcbcbd3727ee)
+
+
+![image](https://github.com/user-attachments/assets/cd47baa3-0979-4985-affd-e2eacf2a3c1a)
+
+
+
 Blog-It uses bcrypt for password hashing, JWT for secure user authentication, and cookies for a seamless user experience. To contribute, familiarize yourself with these technologies and the authentication flow in the application.
